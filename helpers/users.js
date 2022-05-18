@@ -1,2 +1,2 @@
-export const USER_url = 'http://localhost:3000/Usuarios'
-export const PALETAS = "http://localhost:3000/paletas";
+export const USER_url = 'https://ice-cream-a.herokuapp.com/Usuarios'
+export const PALETAS = "https://ice-cream-a.herokuapp.com/paletas";
